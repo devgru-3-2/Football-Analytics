@@ -1,5 +1,7 @@
 # Football-Analytics
 
+![j5imrrf3rwgbmcgo2nny](https://user-images.githubusercontent.com/95485002/218265740-a3c6b687-d3ec-4acf-84db-0cefd7738c22.jpg)
+
 ## Introduction:
 This repository contains a machine learning based prediction model that utilizes Poisson Distribution method to predict the outcome of FIFA World Cup Qatar 2022. The model is trained on historical FIFA World Cup data and is capable of providing match predictions with a high degree of accuracy.
 
@@ -21,5 +23,6 @@ To run the model, you will need the following packages installed:
 ## Conclusion:
 
 This prediction model provides a reliable and accurate solution for predicting the outcome of the FIFA World Cup 2022. The model is a great tool for sports enthusiasts, analysts, and fans to get a better understanding of the World Cup matches and make informed decisions.
+
 
 
