@@ -12,8 +12,6 @@ The model uses Poisson Distribution method to calculate the expected number of g
 ## Requirements:
 To run the model, you will need the following packages installed:
 
-->Numpy
-
 ->Pandas
 
 ->Matplotlib
